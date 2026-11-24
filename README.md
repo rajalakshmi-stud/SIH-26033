@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24/11/2026
+## Reference Number:26002483
+## Name:Rajalakshmi R
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -19,6 +19,7 @@ Expected Solution: Create a digital marketplace that:
 • Provides logistics support.
 • Uses AI for demand forecasting and route optimization.
 
+
 Benefits:
 
 • Better prices for farmers.
@@ -26,27 +27,89 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Our proposed solution is a digital marketplace that eliminates unnecessary intermediaries between farmers and consumers.
+
+Connect farmers directly with consumers and bulk buyers.
+
+Provide a platform for farmers to list and sell their agricultural products.
+
+Display transparent product prices and availability.
+
+Provide logistics and delivery support.
+
+Use AI-based demand forecasting to predict market demand.
+
+Optimize delivery routes to reduce transportation costs.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+ The project will use modern web technologies and AI-based solutions to create an efficient digital marketplace.
+
+Frontend: React.js, HTML, CSS, JavaScript
+
+Backend: Python and Django
+
+Database: SQLite / MySQL
+
+AI Integration: Machine Learning for demand forecasting
+
+Maps and Logistics: Maps API for route optimization
+
+Development Tools: VS Code, Git and GitHub
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+ The proposed solution is technically and economically feasible because it uses commonly available web technologies and digital platforms.
+
+Farmers can access the platform using smartphones or computers.
+
+A simple user-friendly interface makes the system easy to use.
+
+Direct selling reduces unnecessary intermediary costs.
+
+AI-based forecasting helps manage supply and demand.
+
+Logistics integration can improve delivery efficiency
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+ Benefits for Farmers:
+
+Increased earnings through direct selling.
+
+Better access to customers and bulk buyers.
+
+Reduced dependency on intermediaries.
+
+Benefits for Consumers:
+
+Access to fresh agricultural products.
+
+Lower purchasing prices.
+
+Transparent product pricing.
+
+Economic Benefits:
+
+Reduced supply chain costs.
+
+Improved market opportunities.
+
+Better income distribution.
+
+Environmental Benefits:
+
+Optimized delivery routes.
+
+Reduced unnecessary transportation.
+
+Less food wastage through better demand prediction
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+ Smart India Hackathon Official Website: https://sih.gov.in/
+
+Ministry of Agriculture & Farmers Welfare: https://agriwelfare.gov.in/
+
+Ministry of Consumer Affairs: https://consumeraffairs.nic.in/
+
+Digital India: https://www.digitalindia.gov.in/
+
+Research on Digital Agricultural Marketplaces and AI-based Supply Chain Management.
